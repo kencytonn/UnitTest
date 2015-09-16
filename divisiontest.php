@@ -1,5 +1,5 @@
 <?php
-reuire 'phptest.php'
+require 'phptest.php'
 $tester= new DivisionTest();
 echo $tester->doTest();
 class DivisionTest{
